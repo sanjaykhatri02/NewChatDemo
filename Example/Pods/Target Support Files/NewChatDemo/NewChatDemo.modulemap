@@ -1,0 +1,6 @@
+framework module NewChatDemo {
+  umbrella header "NewChatDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

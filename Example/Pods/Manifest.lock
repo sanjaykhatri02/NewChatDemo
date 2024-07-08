@@ -1,0 +1,16 @@
+PODS:
+  - NewChatDemo (0.1.0)
+
+DEPENDENCIES:
+  - NewChatDemo (from `../`)
+
+EXTERNAL SOURCES:
+  NewChatDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NewChatDemo: decd55f9afe1322f906cd1e6af472e3a157fc883
+
+PODFILE CHECKSUM: 26fa3ef62242d4ab1fcdcab3971a055459dfec65
+
+COCOAPODS: 1.15.2
