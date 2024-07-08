@@ -26,8 +26,9 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/sanjaykhatri02/NewChatDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '12.0'
-
+  s.ios.deployment_target = '13.0'
+  s.swift_version = '5.0'
+  
   s.source_files = 'NewChatDemo/Classes/**/*'
   
   # s.resource_bundles = {
